@@ -115,8 +115,8 @@ void contaTempo()
   Serial.println(contador);
   contador--;  
  
-  /*Se temperatura acima de 20° = temperatura ideal
-  Se estiver abaixo de 20º entao ligar aquecedor(LED)*/
+  /*Se temperatura acima de 25° = temperatura ideal
+  Se estiver abaixo de 24º entao ligar aquecedor(LED)*/
   if (temperature <= 24)
  {
  digitalWrite(5, 0); //LIGAR AQUECEDOR
