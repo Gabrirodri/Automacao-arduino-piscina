@@ -1,4 +1,4 @@
-# Automacao-arduino-piscina
+# Automacao de Piscina com Arduino
 Projeto de automacao com arduino
 
 Faz medição de PH e Temperatura da Agua
