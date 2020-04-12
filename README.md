@@ -11,11 +11,11 @@ As condições de Temperatura, podem ser  editados no programa, se for abaixo da
 
 <img src="https://github.com/Gabrirodri/Automacao-arduino-piscina/blob/master/imagens/circuito-fritizing.png" width="350">
 
-Possui um Timer que fica em um ciclo de loop em paralelo com outras funções do programa, acionando uma porta para filtração e cloração... 
+Possui um *Timer* que fica em um ciclo de loop em paralelo com outras funções do programa, acionando uma porta para filtração e cloração... 
 O tempo que vão fica ligadas pode ser editado, alterando o tempo do timer. 
 
 Todo o Codigo esta comentado, o Circuito foi desenhado no Software Fritizing
-Para compilar o codigo é necessario instalar as bibliotecas, dentro da pasta: 'Documents\Arduino\libraries'
+Para compilar o codigo é necessario instalar as bibliotecas, dentro da pasta: _Documents\Arduino\libraries_
 
 O sensor de temperatura usado é o DS18B20
 O programa possui tambem um relogio, com data e hora que são contados no LCD
