@@ -15,7 +15,7 @@ Possui um Timer que fica em um ciclo de loop em paralelo com outras funções do
 O tempo que vão fica ligadas pode ser editado, alterando o tempo do timer. 
 
 Todo o Codigo esta comentado, o Circuito foi desenhado no Software Fritizing
-Para compilar o codigo é necessario instalar as bibliotecas, dentro da pasta, Documents\Arduino\libraries
+Para compilar o codigo é necessario instalar as bibliotecas, dentro da pasta: 'Documents\Arduino\libraries'
 
 O sensor de temperatura usado é o DS18B20
 O programa possui tambem um relogio, com data e hora que são contados no LCD
