@@ -1,7 +1,13 @@
-# Automacao de Piscina com Arduino
-Projeto de automacao com arduino
+## Automacao de Piscina com Arduino
+ # Projeto de automacao com arduino
 
-Faz medição de PH e Temperatura da Agua
+<p align="center">
+	<kbd>
+		<img src="https://github.com/Gabrirodri/Automacao-arduino-piscina/blob/master/imagens/painel%20automacao%20piscina.jpeg" alt="image" style="max-width:50%;"/>
+	</kbd>
+</p>
+
+# Faz medição de PH e Temperatura da Agua
 
 Dentro das condições de PH Alto, Baixo, ativa portas na saida para ligar relé, podendo ligar um sinalizador ou acionar uma bomba...
 As condições de Temperatura, podem ser  editados no programa, se for abaixo da temperatura indicada, liga uma porta na saida, podendo acionar um relé e possivelmente um aquecedor...
@@ -17,3 +23,8 @@ O sensor de temperatura usado é o DS18B20
 O programa possui tambem um relogio, com data e hora que são contados no LCD
 Depois de um tempo na tela do relogio, muda para outra tela mostrando o valor de Temperatura, PH, e tambem o Status do PH(Se esta baixo, ideal ou alto)
 
+<p align="center">
+	<kbd>
+		<img src="https://github.com/Gabrirodri/Automacao-arduino-piscina/blob/master/imagens/painel%20automacao%20piscina%202.jpeg" alt="image" style="max-width:50%;"/>
+	</kbd>
+</p>
